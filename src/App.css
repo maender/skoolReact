@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+ul {
+  height: 50vh;
+  width: 50vh;
+  overflow: scroll;
+  /* background: grey; */
+  list-style: none;
+  font-size: medium;
+}
+
+a {
+  color: white;
+}
+
+a:hover {
+  color:#61dafb;
+}
